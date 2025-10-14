@@ -1,0 +1,122 @@
+Beginner Games:
+SWE01 Edge of the Empire Beginner Game
+SWF01 Force and Destny Beginner Game
+SWR09 The Force Awakens Beginner Game
+
+Books:
+SWA25 Stay on Target
+SWA36 Lead by Example
+SWA47 Fully Operational
+SWA53 Cyphers and Masks
+SWE05 Beyond the Rim
+SWE06 Enter the Unknown
+SWE07 Suns of Fortune
+SWE08 Dangerous Covenants
+SWE10 Far Horizons
+SWE12 Fly Casual
+SWE13 Mask of the Pirate Queen
+SWE14 Special Modifications
+SWF24 Keeping the Peace
+SWF29 Nexus of Power
+SWF30 Endless Vigil
+SWF35 Disciples of Harmony
+SWF40 Ghosts of Dathomir
+SWF41 Savage Spirits
+SWF46 Knights of Fate
+SWF52 Unlimited Power
+SWR10 Dawn of Rebellion
+
+Card Decks:
+uSWA06 Driver
+uSWA08 Pilot
+uSWA09 Commodore
+uSWA10 Squadron Leader
+uSWA11 Tactician
+uSWA12 Saboteur
+uSWA13 Ambassador
+uSWA14 Agitator
+uSWA15 Quartermaster
+uSWA16 Mechanic
+uSWA17 Scientist
+uSWA18 Medic
+uSWA19 Sharpshooter
+uSWA20 Commando
+uSWA21 Scout
+uSWA23 Infiltrator
+uSWA24 Force-Sensitive Emergent
+uSWA27 Hotshot
+uSWA29 Ace Signature Abilities
+uSWA32 Analyst
+uSWA33 Advocate
+uSWA34 Propagandist
+uSWA35 Diplomat Signature Abilities
+uSWA37 Instructor
+uSWA38 Figurehead
+uSWA39 Strategist
+uSWA40 Commander Signature Abiliites
+uSWE23 Mercenary Soldier
+uSWE24 Marauder
+uSWE26 Doctor
+uSWE28 Scholar
+uSWE29 Scoundrel
+uSWE30 Thief
+uSWE31 Pilot
+uSWE32 Mechanic
+uSWE33 Outlaw Tech
+uSWE34 Slicer
+uSWE35 Assassin
+uSWE36 Gadgeteer
+uSWE37 Survivalist
+uSWE38 Force Sensitive Exile
+uSWE39 Archaeologist
+uSWE40 Big Game Hunter
+uSWE41 Driver
+uSWE42 Explorer Signature Abilities
+uSWE43 Enforcer
+uSWE44 Demolitionist
+uSWE45 Heavy
+uSWE47 Entrepreneur
+uSWE48 Marshal
+uSWE50 Colonist Signature Abilities
+uSWE52 Gunslinger
+uSWE53 Charmer
+uSWE54 Smuggler Signature Abilities
+uSWE59 Skip Tracer
+uSWE60 Martial Artist
+uSWE61 Operator
+uSWE62 Bounty Hunter Signature Abilities
+uSWF05 Soresu Defender
+uSWF06 Protector
+uSWF08 Shii-Cho Knight
+uSWF09 Starfighter Ace
+uSWF10 Aggressor
+uSWF11 Shien Expert
+uSWF12 Artisan
+uSWF13 Shadow
+uSWF14 Ataru Striker
+uSWF15 Pathfinder
+uSWF16 Hunter
+uSWF17 Niman Disciple
+uSWF19 Healer
+uSWF20 Makashi Duelist
+uSWF21 Seer
+uSWF22 Advisor
+uSWF36 Teacher
+uSWF37 Arbiter
+uSWF38 Ascetic
+uSWF39 Consular Signature Ability Deck
+uSWF42 Navigator
+uSWF43 Executioner
+uSWF44 Hermit
+uSWF45 Seeker Signature Abilitie
+uSWR01 Scum and Villainy
+uSWR02 Imperials and Rebels
+uSWR03 Citizens of the Galaxy
+uSWR04 Critical Injury Deck
+uSWR05 Critical Hit Deck
+uSWR06 Creatures of the Galaxy
+uSWR08 Hunters and Force Users
+
+Other:
+SWE03 Game Master’s Kit
+SWF03 Game Master’s Kit
