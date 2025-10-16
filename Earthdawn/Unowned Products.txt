@@ -1,199 +1,158 @@
-FASA releases - first edition
+- FASA releases - first edition
+-- Earthdawn Game System. 6000 (hardcover) / 6001 (softcover)
+-- Earthdawn Gamemaster Pack (1993). 6002.[3]
+-- Barsaive (1993)(boxed set). 6100. [4]
+-- Denizens of Earthdawn, Volume 1. 6101[5]
+-- Denizens of Earthdawn, Volume 2. 6102
+-- Legends of Earthdawn, Volume 1. 6103
+-- Parlainth: The Forgotten City (boxed set). 6104
+-- Creatures of Barsaive.[6] 6105
+-- The Adept's Way. 6106
+-- Horrors.[7] 6107
+-- Sky Point & Vivane (boxed set).[8] 6108
+-- The Serpent River.[9] 6109
+-- The Book of Exploration. Legends of Earthdawn, Volume 2.[10] 6110
+-- Throal: The Dwarf Kingdom.[11] 6111
+-- Earthdawn Survival Guide.[12] 6112
+-- The Blood Wood. 6113
+-- The Theran Empire. 6114
+-- Secret Societies of Barsaive. 6115
+-- Crystal Raiders of Barsaive. 6116
+-- Ork Nation of Cara Fahd. 6117
+-- Earthdawn Companion. 6200.
+-- Magic: A Manual of Mystic Secrets. 6201.
+-- Arcane Mysteries of Barsaive. 6202.
+-- Mists of Betrayal. 6301
+-- Terror in the Skies. 6302
+-- Infected. 6303
+-- Parlainth Adventures. 6304
+-- Shattered Pattern. 6305
+-- Sky Point Adventures. 6306
+-- Blades. 6307
+-- Throal Adventures. 6308
+-- Prelude to War. 6401
+-- Three Promo-Flyers
 
-    Earthdawn Game System. 6000 (hardcover) / 6001 (softcover)
-    Earthdawn Gamemaster Pack (1993). 6002.[3]
-    Barsaive (1993)(boxed set). 6100. [4]
-    Denizens of Earthdawn, Volume 1. 6101[5]
-    Denizens of Earthdawn, Volume 2. 6102
-    Legends of Earthdawn, Volume 1. 6103
-    Parlainth: The Forgotten City (boxed set). 6104
-    Creatures of Barsaive.[6] 6105
-    The Adept's Way. 6106
-    Horrors.[7] 6107
-    Sky Point & Vivane (boxed set).[8] 6108
-    The Serpent River.[9] 6109
-    The Book of Exploration. Legends of Earthdawn, Volume 2.[10] 6110
-    Throal: The Dwarf Kingdom.[11] 6111
-    Earthdawn Survival Guide.[12] 6112
-    The Blood Wood. 6113
-    The Theran Empire. 6114
-    Secret Societies of Barsaive. 6115
-    Crystal Raiders of Barsaive. 6116
-    Ork Nation of Cara Fahd. 6117
-    Earthdawn Companion. 6200.
-    Magic: A Manual of Mystic Secrets. 6201.
-    Arcane Mysteries of Barsaive. 6202.
-    Mists of Betrayal. 6301
-    Terror in the Skies. 6302
-    Infected. 6303
-    Parlainth Adventures. 6304
-    Shattered Pattern. 6305
-    Sky Point Adventures. 6306
-    Blades. 6307
-    Throal Adventures. 6308
-    Prelude to War. 6401
-    Earthdawn novels (see below).
-    Three Promo-Flyers
+- Living Room Games releases - first edition
+-- Path of Deception. LRG-100. ISBN 1-55560-450-1
+-- Barsaive at War. LRG-101. ISBN 0-9704191-0-4
 
-Living Room Games releases - first edition
+- Living Room Games releases - second edition
+-- Earthdawn Rulebook, Second Edition. LRG-200. ISBN 0-9704191-1-2
+-- Earthdawn Companion. LRG-201. ISBN 0-9704191-2-0
+-- Barsaive in Chaos. LRG-202. ISBN 0-9704191-3-9
+-- The Gamemaster's Screen. LRG-203. ISBN 0-9704191-4-7
+-- Scourge Unending. LRG ED-204. ISBN 0-9704191-5-5.
+-- Way of War: Makers of Legend Vol 1. LRG-205. ISBN 0-9704191-7-1
+-- The Book of Dragons. LRG-206. ISBN 0-9704191-8-X
+-- The Wanderer’s Way: Makers of Legend Vol. 2. LRG-207. ISBN 0-9755206-3-6
+-- Dangerous Goods. LRG-208. Unpublished
+-- Way of Will: Makers of Legend Vol. 3. LRG-209. Unpublished
+-- Corrupted Lands. LRG-210. Unpublished
+-- Cities of Barsaive. LRG-211. Unpublished
 
-    Path of Deception. LRG-100. ISBN 1-55560-450-1
-    Barsaive at War. LRG-101. ISBN 0-9704191-0-4
+- RedBrick releases - classic edition
+-- Earthdawn Player's Compendium. RBL-100.
+-- Earthdawn Gamemaster's Compendium. RBL-101.
+-- Earthdawn Character Folio. RBL-102.
+-- Earthdawn Adventure Log. RBL-103.
+-- Earthdawn Name-giver's Compendium. RBL-200.
+-- Nations of Barsaive: Volume One. RBL-201
+-- Kratas: City of Thieves. RBL-202
+-- Ardanyan's Revenge. RBL-300.
+-- Earthdawn Adventure Compendium. RBL-301.
+-- Burning Desires. RBL-302.
+-- Shards Collection: Volume One. RBL-303.
+-- Kaer Tardim. RBL-500.
+-- Character Record Sheets. RBL-501.
+-- Spell Library. RBL-502.
+-- Spell Design. RBL-503.
+-- Discipline Design. RBL-504.
+-- Barsaive Map. RBL-505.
+-- Rites of Protection and Passage. RBL-506.
+-- Kratas Character Codex. RBL-507.
+-- Journey to Lang: An Earthdawn Shard. RBL-700.
+-- Runvir's Tomb: An Earthdawn Shard. RBL-701.
+-- Kept in the Dark: An Earthdawn Shard. RBL-702.
+-- Pale River: An Earthdawn Shard. RBL-703.
+-- Tournament Troubles: An Earthdawn Shard. RBL-704.
+-- Blackout: An Earthdawn Shard. RBL-705.
+-- Betrayal's Sting: An Earthdawn Shard. RBL-706.
+-- Westhrall's Passage: An Earthdawn Shard. RBL-707
+-- A Tear for Jaspree: An Earthdawn Shard. RBL-708
+-- FASA eBooks.
+-- Earthdawn Player's Guide (Savage Worlds Edition) [RB12001], 2012.
+-- Earthdawn Game Master's Guide (Savage Worlds Edition) [RB12002], 2012.
 
-Living Room Games releases - second edition
+- RedBrick releases - third edition (under the Flaming Cobra imprint of Mongoose Publishing)
+-- Earthdawn Player's Guide. MGP6141
+-- Earthdawn Gamemaster's Guide. MGP6142
+-- Earthdawn Player's Companion. MGP6147
+-- Earthdawn Gamemaster's Companion. MGP6148
+-- Misguided Ambitions - An Introduction to Earthdawn.
+-- Kratas: City of Thieves. MGP6150
+-- Namegivers of Barsaive. MGP6151
+-- Nations of Barsaive 1: Throal. MGP6158
+-- Nations of Barsaive 2: Serpent River. MGP6159
+-- Nations of Barsaive 3: Cara Fahd. MGP6189
+-- Nations of Barsaive 4: Crystal Raiders. MGP6198
+-- Cathay: The Five Kingdoms Player's Guide. MGP 6175
+-- Cathay: The Five Kingdoms Gamemaster's Guide MGP 6176
+-- Ardanyan's Revenge. MGP6153
+-- Shards Collection Volume One. MGP6154
+-- Shards Collection Volume Two. MGP6166
+-- Kratas Adventures. MGP6170
+-- Burning Desires. MGP6191
 
-    Earthdawn Rulebook, Second Edition. LRG-200. ISBN 0-9704191-1-2
-    Earthdawn Companion. LRG-201. ISBN 0-9704191-2-0
-    Barsaive in Chaos. LRG-202. ISBN 0-9704191-3-9
-    The Gamemaster's Screen. LRG-203. ISBN 0-9704191-4-7
-    Scourge Unending. LRG ED-204. ISBN 0-9704191-5-5.
-    Way of War: Makers of Legend Vol 1. LRG-205. ISBN 0-9704191-7-1
-    The Book of Dragons. LRG-206. ISBN 0-9704191-8-X
-    The Wanderer’s Way: Makers of Legend Vol. 2. LRG-207. ISBN 0-9755206-3-6
-    Dangerous Goods. LRG-208. Unpublished
-    Way of Will: Makers of Legend Vol. 3. LRG-209. Unpublished
-    Corrupted Lands. LRG-210. Unpublished
-    Cities of Barsaive. LRG-211. Unpublished
+- RedBrick/FASA Games releases - revised third edition
+-- Earthdawn Player's Guide. FAS11001P
+-- Mists of Betrayal. FAS11101P
 
-RedBrick releases - classic edition
+- FASA Games releases - fourth edition
+-- Earthdawn Quick Start, FAS14100
+-- Earthdawn Gamemaster's Guide, FAS14102
+-- Earthdawn Player's Companion, FAS14103
+-- Earthdawn Game Master's Screen, FAS14104
+-- Earthdawn Character Journal, FAS14105
+-- Earthdawn PDF Fillable Form Character Journal, FAS14106
+-- Travar: The Merchant City, FAS14201
+-- Elven Nations, FAS14202
+-- Questors, FAS14203
+-- The Adept's Journey: Mystic Paths, FAS14204
+-- Iopos: Lair of Deceit, FAS14205
+-- Empty Thrones, FAS14206
+-- Vasgothia, FAS14207
+-- Grand Bazaar, FAS14208
+-- Legends of Barsaive 00A: Characters, FAS14401
+-- Legends of Barsaive 00: Haven, FAS14402
+-- Legends of Barsaive 01: Toys in the Attic, FAS14403
+-- Legends of Barsaive 02: Lip Service, FAS14404
+-- Legends of Barsaive 03: Separation Anxiety, FAS14405
+-- Legends of Barsaive 04: That Which Was Lost, FAS14406
+-- Legends of Barsaive 05: Games of the Hungry, FAS14407
+-- Legends of Barsaive 06: Glass Houses, FAS14408
+-- Legends of Barsaive 07: Heavy Metal Queen, FAS14409
+-- Legends of Barsaive 08: Brain Scratch, FAS14410
+-- Legends of Barsaive: Haven Volume 1, FAS14601
 
-    Earthdawn Player's Compendium. RBL-100.
-    Earthdawn Gamemaster's Compendium. RBL-101.
-    Earthdawn Character Folio. RBL-102.
-    Earthdawn Adventure Log. RBL-103.
-    Earthdawn Name-giver's Compendium. RBL-200.
-    Nations of Barsaive: Volume One. RBL-201
-    Kratas: City of Thieves. RBL-202
-    Ardanyan's Revenge. RBL-300.
-    Earthdawn Adventure Compendium. RBL-301.
-    Burning Desires. RBL-302.
-    Shards Collection: Volume One. RBL-303.
-    Kaer Tardim. RBL-500.
-    Character Record Sheets. RBL-501.
-    Spell Library. RBL-502.
-    Spell Design. RBL-503.
-    Discipline Design. RBL-504.
-    Barsaive Map. RBL-505.
-    Rites of Protection and Passage. RBL-506.
-    Kratas Character Codex. RBL-507.
-    Journey to Lang: An Earthdawn Shard. RBL-700.
-    Runvir's Tomb: An Earthdawn Shard. RBL-701.
-    Kept in the Dark: An Earthdawn Shard. RBL-702.
-    Pale River: An Earthdawn Shard. RBL-703.
-    Tournament Troubles: An Earthdawn Shard. RBL-704.
-    Blackout: An Earthdawn Shard. RBL-705.
-    Betrayal's Sting: An Earthdawn Shard. RBL-706.
-    Westhrall's Passage: An Earthdawn Shard. RBL-707
-    A Tear for Jaspree: An Earthdawn Shard. RBL-708
-    FASA eBooks.
-    Earthdawn novels (see below).
+- Vagrant Workshop releases - The Age of Legend edition
+-- Earthdawn: The Age of Legend, v20160428
+-- Darranis: Details the town of Darranis, and provides three adventures in Darranis and its surrounding environs.
 
-RedBrick also published the following Savage Worlds editions:
-
-    Earthdawn Player's Guide (Savage Worlds Edition) [RB12001], 2012.
-    Earthdawn Game Master's Guide (Savage Worlds Edition) [RB12002], 2012.
-
-RedBrick releases - third edition
-
-These third edition releases were published under the Flaming Cobra imprint of Mongoose Publishing.
-Corebooks
-
-    Earthdawn Player's Guide. MGP6141
-    Earthdawn Gamemaster's Guide. MGP6142
-    Earthdawn Player's Companion. MGP6147
-    Earthdawn Gamemaster's Companion. MGP6148
-    Misguided Ambitions - An Introduction to Earthdawn.
-
-Sourcebooks
-
-    Kratas: City of Thieves. MGP6150
-    Namegivers of Barsaive. MGP6151
-    Nations of Barsaive 1: Throal. MGP6158
-    Nations of Barsaive 2: Serpent River. MGP6159
-    Nations of Barsaive 3: Cara Fahd. MGP6189
-    Nations of Barsaive 4: Crystal Raiders. MGP6198
-    Cathay: The Five Kingdoms Player's Guide. MGP 6175
-    Cathay: The Five Kingdoms Gamemaster's Guide MGP 6176
-
-Adventures
-
-    Ardanyan's Revenge. MGP6153
-    Shards Collection Volume One. MGP6154
-    Shards Collection Volume Two. MGP6166
-    Kratas Adventures. MGP6170
-    Burning Desires. MGP6191
-
-RedBrick/FASA Games releases - revised third edition
-Corebooks
-
-    Earthdawn Player's Guide. FAS11001P
-
-Sourcebooks
-
-    Mists of Betrayal. FAS11101P
-
-FASA Games releases - fourth edition
-Corebooks
-
-    Earthdawn Quick Start, FAS14100
-    Earthdawn Player's Guide, FAS14101
-    Earthdawn Gamemaster's Guide, FAS14102
-    Earthdawn Player's Companion, FAS14103
-    Earthdawn Game Master's Screen, FAS14104
-    Earthdawn Character Journal, FAS14105
-    Earthdawn PDF Fillable Form Character Journal, FAS14106
-
-Sourcebooks
-
-    Travar: The Merchant City, FAS14201
-    Elven Nations, FAS14202
-    Questors, FAS14203
-    The Adept's Journey: Mystic Paths, FAS14204
-    Iopos: Lair of Deceit, FAS14205
-    Empty Thrones, FAS14206
-    Vasgothia, FAS14207
-    Grand Bazaar, FAS14208
-
-Adventures
-
-    Legends of Barsaive 00A: Characters, FAS14401
-    Legends of Barsaive 00: Haven, FAS14402
-    Legends of Barsaive 01: Toys in the Attic, FAS14403
-    Legends of Barsaive 02: Lip Service, FAS14404
-    Legends of Barsaive 03: Separation Anxiety, FAS14405
-    Legends of Barsaive 04: That Which Was Lost, FAS14406
-    Legends of Barsaive 05: Games of the Hungry, FAS14407
-    Legends of Barsaive 06: Glass Houses, FAS14408
-    Legends of Barsaive 07: Heavy Metal Queen, FAS14409
-    Legends of Barsaive 08: Brain Scratch, FAS14410
-    Legends of Barsaive: Haven Volume 1, FAS14601
-
-Vagrant Workshop releases - The Age of Legend edition
-Corebook
-
-    Earthdawn: The Age of Legend, v20160428
-
-Sourcebook and adventures
-
-    Darranis: Details the town of Darranis, and provides three adventures in Darranis and its surrounding environs.
-
-Novels:
-The Longing Ring by Christopher Kubasik
-Mother Speaks by Christopher Kubasik
-Poisoned Memories by Christopher Kubasik
-Talisman: A Short Story Anthology, 1994, ISBN 0-451-45389-1
-Shroud of Madness, 1995, ISBN 1-55560-275-4
-Prophecy, 1994, ISBN 0-451-45347-6
-Lost Kaer, 1998 ISBN 1-55560-274-6
-Liferock: A Lost Novel of Earthdawn, 2003, ISBN 0-9745734-1-8
-Liferock: An Earthdawn Novel, 2010, RedBrick
-    Caroline Spector, Immortals trilogy: Since the original Earthdawn novel series was canceled as the books were being written, the first two were first published as French and German translations in the 1990s.
-        Scars: A Lost Novel of Earthdawn, 2005, ISBN 0-9745734-2-6
-        Scars: An Earthdawn Novel, 2010, RedBrick
-        Little Treasures
-        Worlds Without End, 1995, ISBN 0-451-45371-9 & 2003, ISBN 0-451-45496-0, as the 18th Shadowrun novel.
-    Tim Jones, Anarya's Secret, 2007, RedBrick
-    Hank Woon, Cathay:
-        Dark Shadows of Yesterday, 2008, RedBrick
-        Immortal Twilight, 2009, RedBrick
-    Donovan Winch, Defiler's Curse, 2011, RedBrick
+- Novels:
+-- The Longing Ring by Christopher Kubasik
+-- Mother Speaks by Christopher Kubasik
+-- Poisoned Memories by Christopher Kubasik
+-- Talisman: A Short Story Anthology, 1994, ISBN 0-451-45389-1
+-- Shroud of Madness, 1995, ISBN 1-55560-275-4
+-- Prophecy, 1994, ISBN 0-451-45347-6
+-- Lost Kaer, 1998 ISBN 1-55560-274-6
+-- Liferock: A Lost Novel of Earthdawn, 2003, ISBN 0-9745734-1-8
+-- Liferock: An Earthdawn Novel, 2010, RedBrick
+-- Scars: An Earthdawn Novel, 2010, RedBrick
+-- Little Treasures
+-- Worlds Without End, 1995, ISBN 0-451-45371-9 & 2003, ISBN 0-451-45496-0, as the 18th Shadowrun novel.
+-- Anarya's Secret, 2007, RedBrick by Tim Jones
+-- Dark Shadows of Yesterday, 2008, RedBrick by Hank Woon, Cathay
+-- Immortal Twilight, 2009, RedBrick by Hank Woon, Cathay
+-- Defiler's Curse, 2011, RedBrick by Donovan Winch
