@@ -108,32 +108,49 @@
 -- Earthdawn Player's Guide. FAS11001P
 -- Mists of Betrayal. FAS11101P
 
-- FASA Games releases - fourth edition
--- Earthdawn Quick Start, FAS14100
--- Earthdawn Gamemaster's Guide, FAS14102
--- Earthdawn Player's Companion, FAS14103
--- Earthdawn Game Master's Screen, FAS14104
--- Earthdawn Character Journal, FAS14105
--- Earthdawn PDF Fillable Form Character Journal, FAS14106
--- Travar: The Merchant City, FAS14201
--- Elven Nations, FAS14202
--- Questors, FAS14203
--- The Adept's Journey: Mystic Paths, FAS14204
--- Iopos: Lair of Deceit, FAS14205
--- Empty Thrones, FAS14206
--- Vasgothia, FAS14207
--- Grand Bazaar, FAS14208
--- Legends of Barsaive 00A: Characters, FAS14401
--- Legends of Barsaive 00: Haven, FAS14402
--- Legends of Barsaive 01: Toys in the Attic, FAS14403
--- Legends of Barsaive 02: Lip Service, FAS14404
--- Legends of Barsaive 03: Separation Anxiety, FAS14405
--- Legends of Barsaive 04: That Which Was Lost, FAS14406
--- Legends of Barsaive 05: Games of the Hungry, FAS14407
--- Legends of Barsaive 06: Glass Houses, FAS14408
--- Legends of Barsaive 07: Heavy Metal Queen, FAS14409
--- Legends of Barsaive 08: Brain Scratch, FAS14410
--- Legends of Barsaive: Haven Volume 1, FAS14601
+** FASA Games releases - fourth edition **
+FAS14100 Earthdawn Quick Start
+FAS14102 Earthdawn Gamemaster's Guide
+FAS14103 Earthdawn Player's Companion
+FAS14104 Earthdawn Game Master's Screen
+FAS14105 Earthdawn Character Journal
+FAS14106 Earthdawn PDF Fillable Form Character Journal
+FAS14107 Earthdawn Magic: Deeper Secrets
+FAS14201 Travar: The Merchant City
+FAS14202 Elven Nations
+FAS14203 Questors
+FAS14204 The Adept's Journey: Mystic Paths
+FAS14205 Iopos: Lair of Deceit
+FAS14206 Empty Thrones
+FAS14207 Vasgothia
+FAS14208 Grand Bazaar
+FAS14209 Dance with the Serpent
+FAS14321 Vasgothia Towers
+FAS14324 Spell Card Boxed Set
+FAS14325 Elementalist Spell Card Deck
+FAS14326 Wizard Spell Card Deck
+FAS14327 Nethermancer Spell Card Deck
+FAS14328 Shaman Spell Card Deck
+FAS14329 Illusionist Spell Card Deck
+FAS14330 Player Character Spell Card Box
+FAS14401 Legends of Barsaive 00A: Characters
+FAS14402 Legends of Barsaive 00: Haven
+FAS14403 Legends of Barsaive 01: Toys in the Attic
+FAS14404 Legends of Barsaive 02: Lip Service
+FAS14405 Legends of Barsaive 03: Separation Anxiety
+FAS14406 Legends of Barsaive 04: That Which Was Lost
+FAS14407 Legends of Barsaive 05: Games of the Hungry
+FAS14408 Legends of Barsaive 06: Glass Houses
+FAS14409 Legends of Barsaive 07: Heavy Metal Queen
+FAS14410 Legends of Barsaive 08: Brain Scratch
+FAS14411 Legends of Barsaive 09: Once Bitten, Twiceborn
+FAS14412 Legends of Barsaive 10: Boondoggles
+FAS14413 Legends of Barsaive 11: Growth Potential
+FAS14414 Legends of Barsaive 12: Ballad of Fallen Angles
+FAS14601 Legends of Barsaive: Haven Volume 1 (Collects Legends 1-8)
+FAS14602 Legends of Barsaive: Haven Volume 2 (collects Legends 9-12)
+FAS14701 Champion's Challenge Volume 1: The Journey Begins (Graphic Novel)
+FAS14702 Champion's Challenge Volume 2: Challenges of a Madman (Graphic Novel)
 
 - Vagrant Workshop releases - The Age of Legend edition
 -- Earthdawn: The Age of Legend, v20160428
